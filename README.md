@@ -78,5 +78,7 @@ durante el desarrollo del proyecto,
 - Logstash, etc
 
 
-5.- Video explicativo del proceso completo subido a Youtube 
+5.- Video explicativo del proceso completo subido a Youtube :
+
+https://www.youtube.com/playlist?list=PL0UqIFf7qfAZx9UhZOhJhy0zEDSUAros6
 
